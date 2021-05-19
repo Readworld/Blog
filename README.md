@@ -5,9 +5,9 @@
 
 运行需解压：  
 子文件夹中的  
---  blog.rar
--- comment.rar
--- likes.rar
+--  blog.rar  
+-- comment.rar  
+-- likes.rar  
 -- media.rar  
 -- mysite.rar  
 -- read_statistics.rar  
